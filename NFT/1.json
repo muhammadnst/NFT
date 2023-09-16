@@ -1,0 +1,16 @@
+{
+    "name": "The Heaven!",
+    "description": "In the ethereal world of NFTs, where digital art and collectibles transcend the boundaries of the tangible, 'The Heaven' emerges as an enigmatic masterpiece. This NFT shows the imaginary Heaven.",
+    "image": "https://imageupload.io/ib/hf4EpQnuIPyHd6v_1694892870.jpg",
+    "external_url": "https://github.com/muhammadnst",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
